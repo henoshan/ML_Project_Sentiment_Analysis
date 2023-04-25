@@ -1,2 +1,5 @@
 # ML_Project_Sentiment_Analysis
 Unveiling the Voice of the Consumer: A Machine Learning Approach to Brand Comparison through Customer Reviews
+
+Introduction:
+Welcome to my project, "Unveiling the Voice of the Consumer: A Machine Learning Approach to Brand Comparison through Customer Reviews"! This project aims to use sentiment analysis and machine learning techniques to compare the customer reviews of two brands and unveil the voice of the consumer. In this project, we will be using the Kaggle US Airline Tweets dataset, which contains over 14,000 tweets from customers of six major US airlines. By analyzing the customer sentiment expressed in these tweets, we hope to provide valuable insights into how customers perceive and compare different brands. This project will be implemented using Python and the popular machine learning library, Scikit-Learn. We invite you to explore this repository and join us in this exciting journey of analyzing customer feedback and unlocking the power of customer voice.
